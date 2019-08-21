@@ -4,3 +4,8 @@
 * Order
 * Shipping
 * Invoice
+
+## How to run ?
+```
+$mvnw clean package
+```
